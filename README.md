@@ -1,2 +1,18 @@
 # MGMT590FinalProject_BrainiacsGroup8
-This is a repository for the Final Assignment for Brainiacs Group 8 for Purdue's MGMT590 Class. Andrew Layman, Jeremy Cadavona, Kiara Dillon, Kimberly Welch
+This is a repository for the Final Assignment for Brainiacs Group 8 for Purdue's MGMT590 Class.
+Andrew Layman, Jeremy Cadavona, Kiara Dillon, Kimberly Welch
+
+Project Summary (GitHub Readme): An elevator pitch for your topic (problem, evidence, recommendation)
+
+Imagine harnessing the power of cloud computing to uncover hidden insights in a treasure trove of data. Our team is diving into the world of cloud computing using Google Cloud Platform to revolutionize the liquor retail industry. By analyzing a public bigquery dataset containing years of wholesale liquor purchases in Iowa alongside archive (bigquery public dataset) and real-time geospatial weather data, we're unearthing a connection between weather patterns and liquor sales.
+
+The problem is simple: retailers often struggle to predict customer demand accurately, leading to stockouts or excess inventory. Our evidence lies in the comprehensive dataset that tracks every wholesale liquor transaction in the state since 2012. With the State of Iowa overseeing liquor distribution, this dataset offers unparalleled insights into consumer behavior.
+
+Our recommendation? Leverage Cloud Functions, Cloud Pub/Sub, and BigQuery to process, integrate, and analyze this massive data. By correlating historical sales with weather fluctuations, we can build predictive models that forecast liquor demand in real-time. This empowers retailers to optimize inventory levels and marketing strategies, meeting customer needs precisely while reducing waste.
+
+But it doesn't stop there. We're integrating the OpenWeather API to stream live weather data, enabling our models to adapt to changing conditions instantly. This ensures that our predictions remain accurate and up-to-the-minute.
+
+In a nutshell, our project brings together the past and the present, the data and the cloud, to transform liquor retailing into a finely-tuned, data-driven industry. With our insights, retailers can tap into the ebb and flow of consumer preferences like never before, ultimately raising profits and customer satisfaction to new heights.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!
+##############################NEED ENTER IN RECOMMENDATION HERE####################
