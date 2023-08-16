@@ -1,0 +1,6 @@
+The dashboard our team put together allows the user to view and interact with the data in order to better 
+understand which liquors are sold the most, weather data including average temperature, rainfall, and snowfall, 
+and how the latter can affect the former. Using this model, liquor stores can better predict when they should 
+increase or decrease purchases of specific liquor.  By selecting your specific liquor in the Alcohol Type box, 
+you can narrow your data down even more to allow you to make the best decisions for your customers.  You can change 
+the temperature range, rainfall amount, and snowfall amounts as well to make the best predictions possible.
